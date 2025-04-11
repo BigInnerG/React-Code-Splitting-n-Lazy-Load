@@ -8,8 +8,12 @@ function ContactPage(){
         <div id="contactInfo">
             <h2>Contact Info</h2>
             <img 
-            src= "images\profile-pic.jpg"
-            className="contactImg" alt="profile pic" width={220} height={250}/>
+            src= "images\profilepic.jpg"
+            className="contactImg" 
+            alt="profile pic" 
+            width={220} 
+            height={250}
+            />
             <ul id="contactList">
                 <li>Name: Ka'Den Brown</li>
                 <li>Location: Jackson, MS</li>
